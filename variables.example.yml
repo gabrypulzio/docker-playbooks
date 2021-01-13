@@ -1,2 +1,3 @@
 docker_user: gabriele
 pub_key: /Users/gabriele/.ssh/id_rsa.pub
+docker_compose_version: 1.27.4
